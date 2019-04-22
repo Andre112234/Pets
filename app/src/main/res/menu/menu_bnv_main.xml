@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_AllAnimalsBNV_xml"
+        android:enabled="true"
+        android:title="All Animals"
+        app:showAsAction="ifRoom"
+        android:icon="@color/cardview_dark_background"
+
+        />
+    <item
+        android:id="@+id/menu_MyPetsBNV_xml"
+        android:enabled="true"
+        android:title="My Pets"
+        app:showAsAction="ifRoom"
+        android:icon="@color/cardview_dark_background"
+        />
+
+    <item
+        android:id="@+id/menu_SettingBNV_xml"
+        android:enabled="true"
+        android:title="Setting"
+        app:showAsAction="ifRoom"
+        android:icon="@color/cardview_dark_background"
+
+        />
+</menu>
