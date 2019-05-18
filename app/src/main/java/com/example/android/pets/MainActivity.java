@@ -76,4 +76,7 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
+    public void testUpload() {
+        int i = 1+1;
+    }
 }
